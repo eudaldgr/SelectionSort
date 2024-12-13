@@ -17,6 +17,9 @@ public class SelectionSort {
             arr[minIndex] = arr[i];
             arr[i] = temp;
         }
+
+                System.out.println("Nom: Eudald Gubert i Roldan");
+        System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
     }
 
     public boolean contains(int[] arr, int value) {
